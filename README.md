@@ -39,3 +39,9 @@ Inicialmente o projeto terá as seguintes telas:
 
 ## Sistema sendo projetado com o padrão REST e RESTFULL
 O rest é um padrão que definirá as características fundamentais para a contrução de um projeto Web para que as APIs utilizadas consigam interligar diferentes frameworks, tanto no back-end como no front-end.
+
+## Verbos HTTP
+GET = Recebe dados
+POST = Enviar dados dos formulários
+PUT = Atualizar dados
+DELETE = Deletar dados
